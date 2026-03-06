@@ -135,4 +135,4 @@ Example visualisations:
 ## Author
 
 Madalin Gentiu  
-[LinkedIn](your-linkedin-url) | [GitHub](your-github-url)
+[LinkedIn](https://www.linkedin.com/in/madalin-gentiu-a22477170/) | [GitHub](https://github.com/mgentiu/SQL-project-)
