@@ -8,8 +8,6 @@ The analysis explores patient behaviour, insurance provider utilisation, appoint
 
 ---
 
-# THIS IS MY PROJECT
-
 ## Dataset Description
 
 The dataset represents a simplified healthcare appointment system and consists of three tables:
@@ -108,7 +106,7 @@ Example visualisations:
 
 ![Insurance Utilisation](screenshots/insurance_utilisation.png)
 
-![Weekday Demand]()
+![Weekday Demand](screenshots/weekday-demand.png)
 
 ![Age Group Utilisation]()
 
