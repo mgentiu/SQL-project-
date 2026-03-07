@@ -108,7 +108,7 @@ Example visualisations:
 
 ![Weekday Demand](screenshots/weekday-demand.png)
 
-![Age Group Utilisation]()
+<!-- ![Age Group Utilisation]() -->
 
 ![Slot Availability](screenshots/slot_utilisation.png)
 
