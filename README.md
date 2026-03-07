@@ -104,13 +104,13 @@ The results were exported to Excel to create visual summaries of key insights:
 
 Example visualisations:
 
-![Insurance Utilisation](screenshots/insurance_utilisation.png)
+![Insurance Utilisation](screenshots/insurance-utilisation.png)
 
 ![Weekday Demand](screenshots/weekday-demand.png)
 
-<!-- ![Age Group Utilisation]() -->
+![Age Group Utilisation](screenshots/age-group.png) 
 
-![Slot Availability](screenshots/slot_utilisation.png)
+![Slot Availability](screenshots/slots-availability.png)
 
 ---
 
