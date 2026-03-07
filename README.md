@@ -8,6 +8,8 @@ The analysis explores patient behaviour, insurance provider utilisation, appoint
 
 ---
 
+# THIS IS MY PROJECT
+
 ## Dataset Description
 
 The dataset represents a simplified healthcare appointment system and consists of three tables:
